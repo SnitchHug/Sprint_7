@@ -1,0 +1,1 @@
+{'login': 'opavlova', 'firstName': 'Сократ', 'password': 'm)35I#KfR('}
